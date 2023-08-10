@@ -1,6 +1,8 @@
 # Week_21_Challenge
+
 USYD FinTech Bootcamp Week 21 Challenge
-*Written in Remix using Solidity scripts*
+
+*Written in Remix using Solidity scripts - Compiled using version 0.5.17 (note compiler version 0.5.0 did not work due to error seen in appendix below)*
 ---
 ## Step 1: Create the KaseiCoin Token Contract
 
@@ -32,3 +34,8 @@ USYD FinTech Bootcamp Week 21 Challenge
 # Refrences and Resources
 * https://remix-ide.readthedocs.io/en/latest/run.html#environment
 * Course material
+
+---
+# Appendix
+
+![Solidity Compiler Version 0.5.0 Error Message](/Evaluation_Evidence/Solidity_Compiler_Version_0.5.0_Error_Message.png "Solidity Compiler Version 0.5.0 Error Message")
