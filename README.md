@@ -6,25 +6,27 @@ USYD FinTech Bootcamp Week 21 Challenge
 
 *Please see *
 
-![Image NAME](/Evaluation_Evidence/IMAGE.PNG "IMAGE NAME")
+![01-KaseiCoin Token Contract Compiled](/Evaluation_Evidence/01-KaseiCoin_Token_Contract_Compiled.png "01-KaseiCoin Token Contract Compiled")
 
 
 ## Step 2: Create the KaseiCoin Crowdsale Contract
 
-![Image NAME](/Evaluation_Evidence/IMAGE.PNG "IMAGE NAME")
+![02-KaseiCoin Crowdsale Contract Compiled](/Evaluation_Evidence/02-KaseiCoin_Crowdsale_Contract_Compiled.png "02-KaseiCoin Crowdsale Contract Compiled")
 
 
 ## Step 3: Create the KaseiCoin Deployer Contract
 
-
+![Image NAME](/Evaluation_Evidence/IMAGE.png "IMAGE NAME")
 
 ## Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
-
+![Image NAME](/Evaluation_Evidence/IMAGE.png "IMAGE NAME")
 
 ## OPTIONAL: Extend the Crowdsale Contract by Using OpenZeppelin
 
-
+![Image NAME](/Evaluation_Evidence/IMAGE.png "IMAGE NAME")
+![Image NAME](/Evaluation_Evidence/IMAGE.png "IMAGE NAME")
+![Image NAME](/Evaluation_Evidence/IMAGE.png "IMAGE NAME")
 
 ---
 # Refrences and Resources
