@@ -22,7 +22,7 @@ USYD FinTech Bootcamp Week 21 Challenge
 
 ## Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
-![Image NAME](/Evaluation_Evidence/IMAGE.png "IMAGE NAME")
+!![Deployment and Testing of KaseiCoin Crowdsale](/Evaluation_Evidence/Deployment_and_Testing_of_KaseiCoin_Crowdsale.mov)
 
 ## OPTIONAL: Extend the Crowdsale Contract by Using OpenZeppelin
 
@@ -33,6 +33,7 @@ USYD FinTech Bootcamp Week 21 Challenge
 ---
 # Refrences and Resources
 * https://remix-ide.readthedocs.io/en/latest/run.html#environment
+* https://stackoverflow.com/questions/46273751/how-can-i-add-a-video-in-markdown
 * Course material
 
 ---
